@@ -13,7 +13,6 @@ Separate switches for the Power Stack and the Energy/Rage/Mana/Runic bars
 Unit Frames
 
 Information Panel: top position, “Outside Portrait”, own texture and color
-Portrait: “CoA Class” style, detach with its own mover, auto width
 Per-unit castbar:
 texture, font, text color
 “Icon Inside Portrait”
